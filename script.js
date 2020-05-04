@@ -140,7 +140,7 @@ const section1 = document.querySelectorAll(".subtitle");
 const section2 = document.querySelectorAll(".text");
 const sectiontest = document.querySelectorAll(".test");
 const section3 = document.querySelectorAll(".offerlist");
-const section4 = document.querySelectorAll(".offerheading");
+const section4 = document.querySelectorAll(".heading");
 
 function isElementInViewport(el) {
     const rect = el.getBoundingClientRect();
